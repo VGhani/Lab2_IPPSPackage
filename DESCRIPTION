@@ -1,0 +1,11 @@
+Package: Lab2
+Type: Package
+Title: Provide visualization and Statistics summary of IPPS payments from FY2011
+Version: 0.1.0
+Author: Vishnu Ghani
+Maintainer: The package maintainer <vgg4001@med.cornell.edu>
+Description: Will make boxplots of different payments. Will priovide mean, meadain, and standard deviation of Average Medicare payments
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
